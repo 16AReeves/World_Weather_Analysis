@@ -1,5 +1,7 @@
 # Adding config.py file.
 config.py
+config_challenge.py
+config_d3.py
 
 # Adding additional files
 API_practice.ipynb

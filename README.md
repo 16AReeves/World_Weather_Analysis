@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 ---
-## Analysis on Weather Data to Predict Vacation Spots
+## Module 6: Analysis on Weather Data to Predict Vacation Spots using Python APIs
 ---
 ### Purpose
 ---
